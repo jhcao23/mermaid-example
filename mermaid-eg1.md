@@ -4,4 +4,5 @@ graph TD;
   A-->C;
   B-->D;
   C-->D;
+  click A whatever "Tooltip for a callback"
 ```
